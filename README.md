@@ -1,2 +1,0 @@
-# SintakGitHub
-Created with CodeSandbox
