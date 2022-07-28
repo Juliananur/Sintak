@@ -1,2 +1,2 @@
-# Sintak
+# SintakGitHub
 Created with CodeSandbox
